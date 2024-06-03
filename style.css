@@ -1,0 +1,130 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.cont1 {
+  background-image: url(./images/developer.png);
+  height: 850px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+.wrt1 {
+  font-size: 70px;
+  color: #fff;
+}
+.wrt2 {
+  color: #fff;
+  font-size: 35px;
+}
+.wrt3 {
+  color: #fff;
+  font-size: 80px;
+}
+.mat1 {
+  margin-left: 350px;
+  padding-top: 50px;
+}
+.cont2 {
+  background-color: #000;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.wrt4 {
+  font-size: 50px;
+  color: #fff;
+}
+.wrt5 {
+  font-size: 85px;
+  color: #fff;
+  padding-bottom: 20px;
+}
+.cont3 {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 100px;
+}
+.heading {
+  text-align: center;
+}
+.img1,
+.img2,
+.img3 {
+  box-shadow: 2px 2px 2px grey;
+  border-radius: 10%;
+  width: 300px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  transition: 0.3s ease-in-out;
+}
+.img1:hover {
+  box-shadow: 10px 5px 5px grey;
+}
+.img2:hover {
+  box-shadow: 10px 5px 5px grey;
+}
+.img3:hover {
+  box-shadow: 10px 5px 5px grey;
+}
+.cont4{
+  display: flex;
+  justify-content: center;
+  height: 400px;
+}
+.box1{
+  background-color: #515603;
+  color: #fff;
+}
+.headc{
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  font-size: 40px;
+}
+.wrt6{
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.link{
+  color: aqua;
+  font-size: 40px;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+  padding-left: 50px;
+}
+.link:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+.box2{
+  background-color: #722300;
+  color: #fff;
+}
+.heada{
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  font-size: 40px;
+}
+.wrt7{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.cont5{
+  background-color: #000;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrt8{
+  color: #fff;
+  font-size: 60px;
+}
